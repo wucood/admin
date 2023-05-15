@@ -1,4 +1,4 @@
-module admin
+module github.com/wucood/admin
 
 go 1.20
 
